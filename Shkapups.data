@@ -336,7 +336,7 @@ INCLUDE
 INCLUDE 
   'INCL\event.txt' /
 INCLUDE 
-  'INCL\hist_upd.txt' /
+  'INCL\hist_upd.inc' /
 
 USERFILE
 'wtrc.inc' /
