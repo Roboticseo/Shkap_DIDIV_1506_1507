@@ -332,10 +332,17 @@ INCLUDE
 INCLUDE 
   'INCL\WFRP.INC' /
 INCLUDE 
+  'INCL\hist.txt' /
+INCLUDE 
   'INCL\event.txt' /
 INCLUDE 
-  'INCL\hist.txt' /
+  'INCL\hist_upd.txt' /
 
-READ 1 NOV 2012 /
+USERFILE
+'wtrc.inc' /
+ /
+
+READ 1 DEC 2013 /
 
 STOP
+

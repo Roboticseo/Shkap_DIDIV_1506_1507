@@ -1,3 +1,8 @@
 Shkapovo_0315.data - fine grid model (ancestor)
 Shkapups - upscaled model
 Shkapups1 - other aquifer parametres
+
+Shkapups - (NEW)
+	69,75,67,76 - +50% Injectibvity on the DI, -50% on the DIV
+	167 - corrected WFRP
+	added tracer on some injetors
