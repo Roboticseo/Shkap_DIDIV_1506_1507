@@ -1,2 +1,3 @@
 Shkapovo_0315.data - fine grid model (ancestor)
 Shkapups - upscaled model
+Shkapups1 - other aquifer parametres
