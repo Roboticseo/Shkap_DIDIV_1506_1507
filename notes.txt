@@ -6,3 +6,16 @@ Shkapups - (NEW)
 	69,75,67,76 - +50% Injectibvity on the DI, -50% on the DIV
 	167 - corrected WFRP
 	added tracer on some injetors
+
+ARRMX (20131209):
+'109'	0.5
+'1447'	0.5
+'167'	0.2
+'168'	0.5
+'170'	0.06
+'172'	0.5
+'421'	0.5
+'422'	0.31
+'436'	0.5
+'437'	0.3
+ /
