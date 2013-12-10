@@ -19,3 +19,9 @@ ARRMX (20131209):
 '436'	0.5
 '437'	0.3
  /
+
+20131210
+Based on file Shkapups.data, I've conducted FCs and get plots (FC Shkapovo20131206.data). I put them into presentation
+Based on file Shkapupsvar2.data I've conducted FCs and get maps and thickness (FC Shkapovo20131209.data).
+
+
