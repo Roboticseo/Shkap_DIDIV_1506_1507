@@ -25,3 +25,7 @@ Based on file Shkapups.data, I've conducted FCs and get plots (FC Shkapovo201312
 Based on file Shkapupsvar2.data I've conducted FCs and get maps and thickness (FC Shkapovo20131209.data).
 
 
+===========================================================================
+20140826
+Делаю коммит на всякий случай. Заливаю на гитхаб для сохранности.
+===========================================================================

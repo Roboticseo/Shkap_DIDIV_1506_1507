@@ -1,0 +1,7 @@
+All of cubes you may see here were loaded on 01.12.2013
+
+MOIPM		 		[t/m2]
+SOIL,SOWCR,NTG		[dim-less]
+PERMX				[mD]
+ARRAMRKER is the cube that highlights clays(non-collector) that should be collector
+*.GRDECL - file with grid geometry
